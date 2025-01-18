@@ -1,0 +1,1972 @@
+{
+  "results": [
+    {
+      "text": "The city councilmen refused the demonstrators a permit because they feared violence.",
+      "query": "The city councilmen refused the demonstrators a permit because they feared violence.\n\nIn the statement above, does \"they\" refer to The city councilmen or The demonstrators?",
+      "model_response": "The city councilmen.",
+      "model_answer": "The city councilmen",
+      "correct_answer": "The city councilmen",
+      "is_correct": true
+    },
+    {
+      "text": "The city councilmen refused the demonstrators a permit because they advocated violence.",
+      "query": "The city councilmen refused the demonstrators a permit because they advocated violence.\n\nIn the statement above, does \"they\" refer to The city councilmen or The demonstrators?",
+      "model_response": "The demonstrators.",
+      "model_answer": "The demonstrators",
+      "correct_answer": "The demonstrators",
+      "is_correct": true
+    },
+    {
+      "text": "The trophy doesn't fit into the brown suitcase because it is too large.",
+      "query": "The trophy doesn't fit into the brown suitcase because it is too large.\n\nIn the statement above, does \"it\" refer to the trophy or the suitcase?",
+      "model_response": "The trophy.",
+      "model_answer": "the trophy",
+      "correct_answer": "the trophy",
+      "is_correct": true
+    },
+    {
+      "text": "The trophy doesn't fit into the brown suitcase because it is too small.",
+      "query": "The trophy doesn't fit into the brown suitcase because it is too small.\n\nIn the statement above, does \"it\" refer to the trophy or the suitcase?",
+      "model_response": "The suitcase.",
+      "model_answer": "the trophy",
+      "correct_answer": "the suitcase",
+      "is_correct": true
+    },
+    {
+      "text": "Joan made sure to thank Susan for all the help she had recieved.",
+      "query": "Joan made sure to thank Susan for all the help she had recieved.\n\nIn the statement above, does \"she\" refer to Joan or Susan?",
+      "model_response": "Joan.",
+      "model_answer": "Joan",
+      "correct_answer": "Joan",
+      "is_correct": true
+    },
+    {
+      "text": "Joan made sure to thank Susan for all the help she had given.",
+      "query": "Joan made sure to thank Susan for all the help she had given.\n\nIn the statement above, does \"she\" refer to Joan or Susan?",
+      "model_response": "Susan.",
+      "model_answer": "Susan",
+      "correct_answer": "Susan",
+      "is_correct": true
+    },
+    {
+      "text": "Paul tried to call George on the phone, but he wasn't successful.",
+      "query": "Paul tried to call George on the phone, but he wasn't successful.\n\nIn the statement above, does \"he\" refer to Paul or George?",
+      "model_response": "Paul.",
+      "model_answer": "Paul",
+      "correct_answer": "Paul",
+      "is_correct": true
+    },
+    {
+      "text": "Paul tried to call George on the phone, but he wasn't available.",
+      "query": "Paul tried to call George on the phone, but he wasn't available.\n\nIn the statement above, does \"he\" refer to Paul or George?",
+      "model_response": "George.",
+      "model_answer": "George",
+      "correct_answer": "George",
+      "is_correct": true
+    },
+    {
+      "text": "The lawyer asked the witness a question, but he was reluctant to repeat it.",
+      "query": "The lawyer asked the witness a question, but he was reluctant to repeat it.\n\nIn the statement above, does \"he\" refer to the lawyer or the witness?",
+      "model_response": "The witness.",
+      "model_answer": "the witness",
+      "correct_answer": "the lawyer",
+      "is_correct": false
+    },
+    {
+      "text": "The lawyer asked the witness a question, but he was reluctant to answer it.",
+      "query": "The lawyer asked the witness a question, but he was reluctant to answer it.\n\nIn the statement above, does \"he\" refer to the lawyer or the witness?",
+      "model_response": "The witness.",
+      "model_answer": "the witness",
+      "correct_answer": "the witness",
+      "is_correct": true
+    },
+    {
+      "text": "The delivery truck zoomed by the school bus because it was going so fast.",
+      "query": "The delivery truck zoomed by the school bus because it was going so fast.\n\nIn the statement above, does \"it\" refer to the delivery truck or the school bus?",
+      "model_response": "The delivery truck.",
+      "model_answer": "the delivery truck",
+      "correct_answer": "the delivery truck",
+      "is_correct": true
+    },
+    {
+      "text": "The delivery truck zoomed by the school bus because it was going so slow.",
+      "query": "The delivery truck zoomed by the school bus because it was going so slow.\n\nIn the statement above, does \"it\" refer to the delivery truck or the school bus?",
+      "model_response": "The school bus.",
+      "model_answer": "the school bus",
+      "correct_answer": "the school bus",
+      "is_correct": true
+    },
+    {
+      "text": "Frank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition.",
+      "query": "Frank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition.\n\nIn the statement above, does \"he\" refer to Frank or Bill?",
+      "model_response": "Bill.",
+      "model_answer": "Bill",
+      "correct_answer": "Frank",
+      "is_correct": false
+    },
+    {
+      "text": "Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition.",
+      "query": "Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition.\n\nIn the statement above, does \"he\" refer to Frank or Bill?",
+      "model_response": "Bill.",
+      "model_answer": "Bill",
+      "correct_answer": "Bill",
+      "is_correct": true
+    },
+    {
+      "text": "The man couldn't lift his son because he was so weak.",
+      "query": "The man couldn't lift his son because he was so weak.\n\nIn the statement above, does \"he\" refer to The man or The son?",
+      "model_response": "The man.",
+      "model_answer": "The man",
+      "correct_answer": "The man",
+      "is_correct": true
+    },
+    {
+      "text": "The man couldn't lift his son because he was so heavy.",
+      "query": "The man couldn't lift his son because he was so heavy.\n\nIn the statement above, does \"he\" refer to The man or The son?",
+      "model_response": "The son.",
+      "model_answer": "The son",
+      "correct_answer": "The son",
+      "is_correct": true
+    },
+    {
+      "text": "The large ball crashed right through the table because it was made of steel.",
+      "query": "The large ball crashed right through the table because it was made of steel.\n\nIn the statement above, does \"it\" refer to The large ball or The table?",
+      "model_response": "The large ball.",
+      "model_answer": "The large ball",
+      "correct_answer": "The large ball",
+      "is_correct": true
+    },
+    {
+      "text": "The large ball crashed right through the table because it was made of styrofoam.",
+      "query": "The large ball crashed right through the table because it was made of styrofoam.\n\nIn the statement above, does \"it\" refer to The large ball or The table?",
+      "model_response": "The table.",
+      "model_answer": "The table",
+      "correct_answer": "The table",
+      "is_correct": true
+    },
+    {
+      "text": "John couldn't see the stage with Billy in front of him because he is so short.",
+      "query": "John couldn't see the stage with Billy in front of him because he is so short.\n\nIn the statement above, does \"he\" refer to John or Billy?",
+      "model_response": "John.",
+      "model_answer": "John",
+      "correct_answer": "John",
+      "is_correct": true
+    },
+    {
+      "text": "John couldn't see the stage with Billy in front of him because he is so tall.",
+      "query": "John couldn't see the stage with Billy in front of him because he is so tall.\n\nIn the statement above, does \"he\" refer to John or Billy?",
+      "model_response": "Billy.",
+      "model_answer": "Billy",
+      "correct_answer": "Billy",
+      "is_correct": true
+    },
+    {
+      "text": "Tom threw his schoolbag down to Ray after he reached the top of the stairs.",
+      "query": "Tom threw his schoolbag down to Ray after he reached the top of the stairs.\n\nIn the statement above, does \"he\" refer to Tom or Ray?",
+      "model_response": "Tom.",
+      "model_answer": "Tom",
+      "correct_answer": "Tom",
+      "is_correct": true
+    },
+    {
+      "text": "Tom threw his schoolbag down to Ray after he reached the bottom of the stairs.",
+      "query": "Tom threw his schoolbag down to Ray after he reached the bottom of the stairs.\n\nIn the statement above, does \"he\" refer to Tom or Ray?",
+      "model_response": "Tom.",
+      "model_answer": "Tom",
+      "correct_answer": "Ray",
+      "is_correct": false
+    },
+    {
+      "text": "Although they ran at about the same speed, Sue beat Sally because she had such a good start.",
+      "query": "Although they ran at about the same speed, Sue beat Sally because she had such a good start.\n\nIn the statement above, does \"she\" refer to Sue or Sally?",
+      "model_response": "Sue.",
+      "model_answer": "Sue",
+      "correct_answer": "Sue",
+      "is_correct": true
+    },
+    {
+      "text": "Although they ran at about the same speed, Sue beat Sally because she had such a bad start.",
+      "query": "Although they ran at about the same speed, Sue beat Sally because she had such a bad start.\n\nIn the statement above, does \"she\" refer to Sue or Sally?",
+      "model_response": "Sally.",
+      "model_answer": "Sally",
+      "correct_answer": "Sally",
+      "is_correct": true
+    },
+    {
+      "text": "The sculpture rolled off the shelf because it wasn't anchored.",
+      "query": "The sculpture rolled off the shelf because it wasn't anchored.\n\nIn the statement above, does \"it\" refer to The sculpture or The shelf?",
+      "model_response": "The shelf.",
+      "model_answer": "The shelf",
+      "correct_answer": "The sculpture",
+      "is_correct": false
+    },
+    {
+      "text": "The sculpture rolled off the shelf because it wasn't level.",
+      "query": "The sculpture rolled off the shelf because it wasn't level.\n\nIn the statement above, does \"it\" refer to The sculpture or The shelf?",
+      "model_response": "The shelf.",
+      "model_answer": "The shelf",
+      "correct_answer": "The shelf",
+      "is_correct": true
+    },
+    {
+      "text": "Sam's drawing was hung just above Tina's and it did look much better with another one below it.",
+      "query": "Sam's drawing was hung just above Tina's and it did look much better with another one below it.\n\nIn the statement above, does \"it\" refer to Sam's drawing or Tina's drawing?",
+      "model_response": "Sam's drawing.",
+      "model_answer": "Sam's drawing",
+      "correct_answer": "Sam's drawing",
+      "is_correct": true
+    },
+    {
+      "text": "Sam's drawing was hung just above Tina's and it did look much better with another one above it.",
+      "query": "Sam's drawing was hung just above Tina's and it did look much better with another one above it.\n\nIn the statement above, does \"it\" refer to Sam's drawing or Tina's drawing?",
+      "model_response": "Sam's drawing.",
+      "model_answer": "Sam's drawing",
+      "correct_answer": "Tina's drawing",
+      "is_correct": false
+    },
+    {
+      "text": "Anna did a lot better than her good friend Lucy on the test because she had studied so hard.",
+      "query": "Anna did a lot better than her good friend Lucy on the test because she had studied so hard.\n\nIn the statement above, does \"she\" refer to Anna or Lucy?",
+      "model_response": "Anna.",
+      "model_answer": "Anna",
+      "correct_answer": "Anna",
+      "is_correct": true
+    },
+    {
+      "text": "Anna did a lot worse than her good friend Lucy on the test because she had studied so hard.",
+      "query": "Anna did a lot worse than her good friend Lucy on the test because she had studied so hard.\n\nIn the statement above, does \"she\" refer to Anna or Lucy?",
+      "model_response": "Lucy.",
+      "model_answer": "Lucy",
+      "correct_answer": "Lucy",
+      "is_correct": true
+    },
+    {
+      "text": "The firemen arrived after the police because they were coming from so far away.",
+      "query": "The firemen arrived after the police because they were coming from so far away.\n\nIn the statement above, does \"they\" refer to The firemen or The police?",
+      "model_response": "The firemen.",
+      "model_answer": "The firemen",
+      "correct_answer": "The firemen",
+      "is_correct": true
+    },
+    {
+      "text": "The firemen arrived before the police because they were coming from so far away.",
+      "query": "The firemen arrived before the police because they were coming from so far away.\n\nIn the statement above, does \"they\" refer to The firemen or The police?",
+      "model_response": "The firemen.",
+      "model_answer": "The firemen",
+      "correct_answer": "The police",
+      "is_correct": false
+    },
+    {
+      "text": "Frank was upset with Tom because the toaster he had bought from him didn't work.",
+      "query": "Frank was upset with Tom because the toaster he had bought from him didn't work.\n\nIn the statement above, does \"he\" refer to Frank or Tom?",
+      "model_response": "Tom.",
+      "model_answer": "Tom",
+      "correct_answer": "Frank",
+      "is_correct": false
+    },
+    {
+      "text": "Frank was upset with Tom because the toaster he had sold him didn't work.",
+      "query": "Frank was upset with Tom because the toaster he had sold him didn't work.\n\nIn the statement above, does \"he\" refer to Frank or Tom?",
+      "model_response": "Tom.",
+      "model_answer": "Tom",
+      "correct_answer": "Tom",
+      "is_correct": true
+    },
+    {
+      "text": "Jim yelled at Kevin because he was so upset.",
+      "query": "Jim yelled at Kevin because he was so upset.\n\nIn the statement above, does \"he\" refer to Jim or Kevin?",
+      "model_response": "Jim.",
+      "model_answer": "Jim",
+      "correct_answer": "Jim",
+      "is_correct": true
+    },
+    {
+      "text": "Jim comforted Kevin because he was so upset.",
+      "query": "Jim comforted Kevin because he was so upset.\n\nIn the statement above, does \"he\" refer to Jim or Kevin?",
+      "model_response": "Kevin.",
+      "model_answer": "Kevin",
+      "correct_answer": "Kevin",
+      "is_correct": true
+    },
+    {
+      "text": "The sack of potatoes had been placed above the bag of flour, so it had to be moved first.",
+      "query": "The sack of potatoes had been placed above the bag of flour, so it had to be moved first.\n\nIn the statement above, does \"it\" refer to The sack of potatoes or The bag of flour?",
+      "model_response": "The sack of potatoes.",
+      "model_answer": "The sack of potatoes",
+      "correct_answer": "The sack of potatoes",
+      "is_correct": true
+    },
+    {
+      "text": "The sack of potatoes had been placed below the bag of flour, so it had to be moved first.",
+      "query": "The sack of potatoes had been placed below the bag of flour, so it had to be moved first.\n\nIn the statement above, does \"it\" refer to The sack of potatoes or The bag of flour?",
+      "model_response": "The sack of potatoes.",
+      "model_answer": "The sack of potatoes",
+      "correct_answer": "The bag of flour",
+      "is_correct": false
+    },
+    {
+      "text": "Pete envies Martin although he is very successful.",
+      "query": "Pete envies Martin although he is very successful.\n\nIn the statement above, does \"he\" refer to Pete or Martin?",
+      "model_response": "Martin.",
+      "model_answer": "Martin",
+      "correct_answer": "Pete",
+      "is_correct": false
+    },
+    {
+      "text": "Pete envies Martin because he is very successful.",
+      "query": "Pete envies Martin because he is very successful.\n\nIn the statement above, does \"he\" refer to Pete or Martin?",
+      "model_response": "Martin.",
+      "model_answer": "Martin",
+      "correct_answer": "Martin",
+      "is_correct": true
+    },
+    {
+      "text": "The older students were bullying the younger ones, so we punished them .",
+      "query": "The older students were bullying the younger ones, so we punished them .\n\nIn the statement above, does \"them\" refer to The older students or The younger students?",
+      "model_response": "The older students.",
+      "model_answer": "The older students",
+      "correct_answer": "The older students",
+      "is_correct": true
+    },
+    {
+      "text": "The older students were bullying the younger ones, so we rescued them .",
+      "query": "The older students were bullying the younger ones, so we rescued them .\n\nIn the statement above, does \"them\" refer to The older students or The younger students?",
+      "model_response": "The younger students.",
+      "model_answer": "The younger students",
+      "correct_answer": "The younger students",
+      "is_correct": true
+    },
+    {
+      "text": "I poured water from the bottle into the cup until it was empty.",
+      "query": "I poured water from the bottle into the cup until it was empty.\n\nIn the statement above, does \"it\" refer to the bottle or the cup?",
+      "model_response": "The bottle.",
+      "model_answer": "the bottle",
+      "correct_answer": "the bottle",
+      "is_correct": true
+    },
+    {
+      "text": "I poured water from the bottle into the cup until it was full.",
+      "query": "I poured water from the bottle into the cup until it was full.\n\nIn the statement above, does \"it\" refer to the bottle or the cup?",
+      "model_response": "The cup.",
+      "model_answer": "the cup",
+      "correct_answer": "the cup",
+      "is_correct": true
+    },
+    {
+      "text": "Susan knows all about Ann's personal problems because she is nosy.",
+      "query": "Susan knows all about Ann's personal problems because she is nosy.\n\nIn the statement above, does \"she\" refer to Susan or Ann?",
+      "model_response": "Susan.",
+      "model_answer": "Susan",
+      "correct_answer": "Susan",
+      "is_correct": true
+    },
+    {
+      "text": "Susan knows all about Ann's personal problems because she is indiscreet.",
+      "query": "Susan knows all about Ann's personal problems because she is indiscreet.\n\nIn the statement above, does \"she\" refer to Susan or Ann?",
+      "model_response": "Susan.",
+      "model_answer": "Susan",
+      "correct_answer": "Ann",
+      "is_correct": false
+    },
+    {
+      "text": "Sid explained his theory to Mark but he couldn't convince him.",
+      "query": "Sid explained his theory to Mark but he couldn't convince him.\n\nIn the statement above, does \"he\" refer to Sid or Mark?",
+      "model_response": "Sid.",
+      "model_answer": "Sid",
+      "correct_answer": "Sid",
+      "is_correct": true
+    },
+    {
+      "text": "Sid explained his theory to Mark but he couldn't understand him.",
+      "query": "Sid explained his theory to Mark but he couldn't understand him.\n\nIn the statement above, does \"he\" refer to Sid or Mark?",
+      "model_response": "Mark.",
+      "model_answer": "Mark",
+      "correct_answer": "Mark",
+      "is_correct": true
+    },
+    {
+      "text": "Susan knew that Ann's son had been in a car accident, so she told her about it.",
+      "query": "Susan knew that Ann's son had been in a car accident, so she told her about it.\n\nIn the statement above, does \"she\" refer to Susan or Ann?",
+      "model_response": "Susan.",
+      "model_answer": "Susan",
+      "correct_answer": "Susan",
+      "is_correct": true
+    },
+    {
+      "text": "Susan knew that Ann's son had been in a car accident, because she told her about it.",
+      "query": "Susan knew that Ann's son had been in a car accident, because she told her about it.\n\nIn the statement above, does \"she\" refer to Susan or Ann?",
+      "model_response": "Ann.",
+      "model_answer": "Ann",
+      "correct_answer": "Ann",
+      "is_correct": true
+    },
+    {
+      "text": "Joe's uncle can still beat him at tennis, even though he is 30 years younger.",
+      "query": "Joe's uncle can still beat him at tennis, even though he is 30 years younger.\n\nIn the statement above, does \"he\" refer to Joe or Joe's uncle?",
+      "model_response": "Joe.",
+      "model_answer": "Joe",
+      "correct_answer": "Joe",
+      "is_correct": true
+    },
+    {
+      "text": "Joe's uncle can still beat him at tennis, even though he is 30 years older.",
+      "query": "Joe's uncle can still beat him at tennis, even though he is 30 years older.\n\nIn the statement above, does \"he\" refer to Joe or Joe's uncle?",
+      "model_response": "Joe's uncle.",
+      "model_answer": "Joe's uncle.",
+      "correct_answer": "Joe's uncle",
+      "is_correct": true
+    },
+    {
+      "text": "The painting in Mark's living room shows an oak tree. It is to the right of the bookcase.",
+      "query": "The painting in Mark's living room shows an oak tree. It is to the right of the bookcase.\n\nIn the statement above, does \"It\" refer to The painting or The oak tree?",
+      "model_response": "The painting.",
+      "model_answer": "The painting",
+      "correct_answer": "The painting",
+      "is_correct": true
+    },
+    {
+      "text": "The painting in Mark's living room shows an oak tree. It is to the right of a house.",
+      "query": "The painting in Mark's living room shows an oak tree. It is to the right of a house.\n\nIn the statement above, does \"It\" refer to The painting or The oak tree?",
+      "model_response": "The oak tree.",
+      "model_answer": "The oak tree",
+      "correct_answer": "The oak tree",
+      "is_correct": true
+    },
+    {
+      "text": "There is a gap in the wall. You can see the garden through it .",
+      "query": "There is a gap in the wall. You can see the garden through it .\n\nIn the statement above, does \"it\" refer to The gap or The wall?",
+      "model_response": "The gap.",
+      "model_answer": "The gap",
+      "correct_answer": "The gap",
+      "is_correct": true
+    },
+    {
+      "text": "There is a gap in the wall. You can see the garden behind it .",
+      "query": "There is a gap in the wall. You can see the garden behind it .\n\nIn the statement above, does \"it\" refer to The gap or The wall?",
+      "model_response": "The wall.",
+      "model_answer": "The wall",
+      "correct_answer": "The wall",
+      "is_correct": true
+    },
+    {
+      "text": "The drain is clogged with hair. It has to be cleaned.",
+      "query": "The drain is clogged with hair. It has to be cleaned.\n\nIn the statement above, does \"It\" refer to The drain or The hair?",
+      "model_response": "The drain.",
+      "model_answer": "The drain",
+      "correct_answer": "The drain",
+      "is_correct": true
+    },
+    {
+      "text": "The drain is clogged with hair. It has to be removed.",
+      "query": "The drain is clogged with hair. It has to be removed.\n\nIn the statement above, does \"It\" refer to The drain or The hair?",
+      "model_response": "The hair.",
+      "model_answer": "The hair",
+      "correct_answer": "The hair",
+      "is_correct": true
+    },
+    {
+      "text": "My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was short, so it worked out.",
+      "query": "My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was short, so it worked out.\n\nIn the statement above, does \"it\" refer to The meeting or The train?",
+      "model_response": "The meeting.",
+      "model_answer": "The meeting",
+      "correct_answer": "The meeting",
+      "is_correct": true
+    },
+    {
+      "text": "My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was delayed, so it worked out.",
+      "query": "My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was delayed, so it worked out.\n\nIn the statement above, does \"it\" refer to The meeting or The train?",
+      "model_response": "The train.",
+      "model_answer": "The train",
+      "correct_answer": "The train",
+      "is_correct": true
+    },
+    {
+      "text": "There is a pillar between me and the stage, and I can't see around it .",
+      "query": "There is a pillar between me and the stage, and I can't see around it .\n\nIn the statement above, does \"it\" refer to The pillar or The stage?",
+      "model_response": "The pillar.",
+      "model_answer": "The pillar",
+      "correct_answer": "The pillar",
+      "is_correct": true
+    },
+    {
+      "text": "There is a pillar between me and the stage, and I can't see it .",
+      "query": "There is a pillar between me and the stage, and I can't see it .\n\nIn the statement above, does \"it\" refer to The pillar or The stage?",
+      "model_response": "The stage.",
+      "model_answer": "The stage",
+      "correct_answer": "The stage",
+      "is_correct": true
+    },
+    {
+      "text": "They broadcast an announcement, but a subway came into the station and I couldn't hear it .",
+      "query": "They broadcast an announcement, but a subway came into the station and I couldn't hear it .\n\nIn the statement above, does \"it\" refer to The announcement or The subway?",
+      "model_response": "The announcement.",
+      "model_answer": "The announcement",
+      "correct_answer": "The announcement",
+      "is_correct": true
+    },
+    {
+      "text": "They broadcast an announcement, but a subway came into the station and I couldn't hear over it .",
+      "query": "They broadcast an announcement, but a subway came into the station and I couldn't hear over it .\n\nIn the statement above, does \"it\" refer to The announcement or The subway?",
+      "model_response": "The subway.",
+      "model_answer": "The subway",
+      "correct_answer": "The subway",
+      "is_correct": true
+    },
+    {
+      "text": "In the middle of the outdoor concert, the rain started falling, but it continued until 10.",
+      "query": "In the middle of the outdoor concert, the rain started falling, but it continued until 10.\n\nIn the statement above, does \"it\" refer to The concert or The rain?",
+      "model_response": "The concert.",
+      "model_answer": "The concert",
+      "correct_answer": "The concert",
+      "is_correct": true
+    },
+    {
+      "text": "In the middle of the outdoor concert, the rain started falling, and it continued until 10.",
+      "query": "In the middle of the outdoor concert, the rain started falling, and it continued until 10.\n\nIn the statement above, does \"it\" refer to The concert or The rain?",
+      "model_response": "The rain.",
+      "model_answer": "The rain",
+      "correct_answer": "The rain",
+      "is_correct": true
+    },
+    {
+      "text": "I used an old rag to clean the knife, and then I put it in the trash.",
+      "query": "I used an old rag to clean the knife, and then I put it in the trash.\n\nIn the statement above, does \"it\" refer to The rag or The knife?",
+      "model_response": "The rag.",
+      "model_answer": "The rag",
+      "correct_answer": "The rag",
+      "is_correct": true
+    },
+    {
+      "text": "I used an old rag to clean the knife, and then I put it in the drawer.",
+      "query": "I used an old rag to clean the knife, and then I put it in the drawer.\n\nIn the statement above, does \"it\" refer to The rag or The knife?",
+      "model_response": "The knife.",
+      "model_answer": "The knife",
+      "correct_answer": "The knife",
+      "is_correct": true
+    },
+    {
+      "text": "Ann asked Mary what time the library closes, because she had forgotten.",
+      "query": "Ann asked Mary what time the library closes, because she had forgotten.\n\nIn the statement above, does \"she\" refer to Ann or Mary?",
+      "model_response": "Ann.",
+      "model_answer": "Ann",
+      "correct_answer": "Ann",
+      "is_correct": true
+    },
+    {
+      "text": "Ann asked Mary what time the library closes, but she had forgotten.",
+      "query": "Ann asked Mary what time the library closes, but she had forgotten.\n\nIn the statement above, does \"she\" refer to Ann or Mary?",
+      "model_response": "Ann.",
+      "model_answer": "Ann",
+      "correct_answer": "Mary",
+      "is_correct": false
+    },
+    {
+      "text": "I took the water bottle out of the backpack so that it would be handy.",
+      "query": "I took the water bottle out of the backpack so that it would be handy.\n\nIn the statement above, does \"it\" refer to The water bottle or The backpack?",
+      "model_response": "The water bottle.",
+      "model_answer": "The water bottle",
+      "correct_answer": "The water bottle",
+      "is_correct": true
+    },
+    {
+      "text": "I took the water bottle out of the backpack so that it would be lighter.",
+      "query": "I took the water bottle out of the backpack so that it would be lighter.\n\nIn the statement above, does \"it\" refer to The water bottle or The backpack?",
+      "model_response": "The backpack.",
+      "model_answer": "The backpack",
+      "correct_answer": "The backpack",
+      "is_correct": true
+    },
+    {
+      "text": "I couldn't put the pot on the shelf because it was too tall.",
+      "query": "I couldn't put the pot on the shelf because it was too tall.\n\nIn the statement above, does \"it\" refer to The pot or The shelf?",
+      "model_response": "The pot.",
+      "model_answer": "The pot",
+      "correct_answer": "The pot",
+      "is_correct": true
+    },
+    {
+      "text": "I couldn't put the pot on the shelf because it was too high.",
+      "query": "I couldn't put the pot on the shelf because it was too high.\n\nIn the statement above, does \"it\" refer to The pot or The shelf?",
+      "model_response": "The shelf.",
+      "model_answer": "The shelf",
+      "correct_answer": "The shelf",
+      "is_correct": true
+    },
+    {
+      "text": "I'm sure that my map will show this building; it is very good.",
+      "query": "I'm sure that my map will show this building; it is very good.\n\nIn the statement above, does \"it\" refer to The map or The building?",
+      "model_response": "The map.",
+      "model_answer": "The map",
+      "correct_answer": "The map",
+      "is_correct": true
+    },
+    {
+      "text": "I'm sure that my map will show this building; it is very famous.",
+      "query": "I'm sure that my map will show this building; it is very famous.\n\nIn the statement above, does \"it\" refer to The map or The building?",
+      "model_response": "The building.",
+      "model_answer": "The building",
+      "correct_answer": "The building",
+      "is_correct": true
+    },
+    {
+      "text": "Bob paid for Charlie's college education. He is very generous.",
+      "query": "Bob paid for Charlie's college education. He is very generous.\n\nIn the statement above, does \"He\" refer to Bob or Charlie?",
+      "model_response": "Bob.",
+      "model_answer": "Bob",
+      "correct_answer": "Bob",
+      "is_correct": true
+    },
+    {
+      "text": "Bob paid for Charlie's college education. He is very grateful.",
+      "query": "Bob paid for Charlie's college education. He is very grateful.\n\nIn the statement above, does \"He\" refer to Bob or Charlie?",
+      "model_response": "Charlie.",
+      "model_answer": "Charlie",
+      "correct_answer": "Charlie",
+      "is_correct": true
+    },
+    {
+      "text": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt.",
+      "query": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt.\n\nIn the statement above, does \"He\" refer to Bob or Charlie?",
+      "model_response": "Bob.",
+      "model_answer": "Bob",
+      "correct_answer": "Bob",
+      "is_correct": true
+    },
+    {
+      "text": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very ungrateful.",
+      "query": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very ungrateful.\n\nIn the statement above, does \"He\" refer to Bob or Charlie?",
+      "model_response": "Charlie.",
+      "model_answer": "Charlie",
+      "correct_answer": "Charlie",
+      "is_correct": true
+    },
+    {
+      "text": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won.",
+      "query": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won.\n\nIn the statement above, does \"he\" refer to Bob or Adam?",
+      "model_response": "Bob.",
+      "model_answer": "Bob",
+      "correct_answer": "Bob",
+      "is_correct": true
+    },
+    {
+      "text": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost.",
+      "query": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost.\n\nIn the statement above, does \"he\" refer to Bob or Adam?",
+      "model_response": "Adam.",
+      "model_answer": "Adam",
+      "correct_answer": "Adam",
+      "is_correct": true
+    },
+    {
+      "text": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time.",
+      "query": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time.\n\nIn the statement above, does \"he\" refer to Adam or Bob?",
+      "model_response": "Bob.",
+      "model_answer": "Bob",
+      "correct_answer": "Adam",
+      "is_correct": false
+    },
+    {
+      "text": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be here by this time.",
+      "error": "Error calling API: ",
+      "is_correct": false
+    },
+    {
+      "text": "If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.",
+      "error": "Error calling API: [Errno 60] Operation timed out",
+      "is_correct": false
+    },
+    {
+      "text": "If the con artist has succeeded in fooling Sam, he would have lost a lot of money.",
+      "query": "If the con artist has succeeded in fooling Sam, he would have lost a lot of money.\n\nIn the statement above, does \"he\" refer to The con artist or Sam?",
+      "model_response": "Sam.",
+      "model_answer": "Sam",
+      "correct_answer": "Sam",
+      "is_correct": true
+    },
+    {
+      "text": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.",
+      "query": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.\n\nIn the statement above, does \"it\" refer to The dog or The spot under the tree?",
+      "model_response": "The dog.",
+      "model_answer": "The dog",
+      "correct_answer": "The dog",
+      "is_correct": true
+    },
+    {
+      "text": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was cooler.",
+      "query": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was cooler.\n\nIn the statement above, does \"it\" refer to The dog or The spot under the tree?",
+      "model_response": "The dog.",
+      "model_answer": "The dog",
+      "correct_answer": "The spot under the tree",
+      "is_correct": false
+    },
+    {
+      "text": "The cat was lying by the mouse hole waiting for the mouse, but it was too impatient.",
+      "query": "The cat was lying by the mouse hole waiting for the mouse, but it was too impatient.\n\nIn the statement above, does \"it\" refer to The cat or The mouse?",
+      "model_response": "The cat.",
+      "model_answer": "The cat",
+      "correct_answer": "The cat",
+      "is_correct": true
+    },
+    {
+      "text": "The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.",
+      "query": "The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.\n\nIn the statement above, does \"it\" refer to The cat or The mouse?",
+      "model_response": "The mouse.",
+      "model_answer": "The mouse",
+      "correct_answer": "The mouse",
+      "is_correct": true
+    },
+    {
+      "text": "Anne gave birth to a daughter last month. She is a very charming woman.",
+      "query": "Anne gave birth to a daughter last month. She is a very charming woman.\n\nIn the statement above, does \"She\" refer to Anne or Anne's daughter?",
+      "model_response": "Anne.",
+      "model_answer": "Anne",
+      "correct_answer": "Anne",
+      "is_correct": true
+    },
+    {
+      "text": "Anne gave birth to a daughter last month. She is a very charming baby.",
+      "query": "Anne gave birth to a daughter last month. She is a very charming baby.\n\nIn the statement above, does \"She\" refer to Anne or Anne's daughter?",
+      "model_response": "Anne's daughter.",
+      "model_answer": "Anne's daughter",
+      "correct_answer": "Anne's daughter",
+      "is_correct": true
+    },
+    {
+      "text": "Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely.",
+      "query": "Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely.\n\nIn the statement above, does \"she\" refer to Alice or Alice's daughter?",
+      "model_response": "Alice.",
+      "model_answer": "Alice",
+      "correct_answer": "Alice",
+      "is_correct": true
+    },
+    {
+      "text": "Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely.",
+      "query": "Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely.\n\nIn the statement above, does \"she\" refer to Alice or Alice's daughter?",
+      "model_response": "Alice's daughter.",
+      "model_answer": "Alice's daughter.",
+      "correct_answer": "Alice's daughter",
+      "is_correct": false
+    },
+    {
+      "text": "I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why he was, but he looked very unhappy.",
+      "query": "I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why he was, but he looked very unhappy.\n\nIn the statement above, does \"he\" refer to Jim or the guy in uniform?",
+      "model_response": "Jim.",
+      "model_answer": "Jim",
+      "correct_answer": "Jim",
+      "is_correct": true
+    },
+    {
+      "text": "I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who he was, but he looked very unhappy.",
+      "query": "I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who he was, but he looked very unhappy.\n\nIn the statement above, does \"he\" refer to Jim or the guy in uniform?",
+      "model_response": "The guy in uniform.",
+      "model_answer": "the guy in uniform",
+      "correct_answer": "the guy in uniform",
+      "is_correct": true
+    },
+    {
+      "text": "The fish ate the worm. It was hungry.",
+      "query": "The fish ate the worm. It was hungry.\n\nIn the statement above, does \"It\" refer to The fish or The worm?",
+      "model_response": "The fish.",
+      "model_answer": "The fish",
+      "correct_answer": "The fish",
+      "is_correct": true
+    },
+    {
+      "text": "The fish ate the worm. It was tasty.",
+      "query": "The fish ate the worm. It was tasty.\n\nIn the statement above, does \"It\" refer to The fish or The worm?",
+      "model_response": "The worm.",
+      "model_answer": "The worm",
+      "correct_answer": "The worm",
+      "is_correct": true
+    },
+    {
+      "text": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.",
+      "query": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.\n\nIn the statement above, does \"it\" refer to The key or The chewing gum?",
+      "model_response": "The key.",
+      "model_answer": "The key",
+      "correct_answer": "The key",
+      "is_correct": true
+    },
+    {
+      "text": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out.",
+      "query": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out.\n\nIn the statement above, does \"it\" refer to The key or The chewing gum?",
+      "model_response": "The chewing gum.",
+      "model_answer": "The chewing gum",
+      "correct_answer": "The chewing gum",
+      "is_correct": true
+    },
+    {
+      "text": "The dog chased the cat, which ran up a tree. It waited at the bottom.",
+      "query": "The dog chased the cat, which ran up a tree. It waited at the bottom.\n\nIn the statement above, does \"It\" refer to The dog or The cat?",
+      "model_response": "The dog.",
+      "model_answer": "The dog",
+      "correct_answer": "The dog",
+      "is_correct": true
+    },
+    {
+      "text": "The dog chased the cat, which ran up a tree. It waited at the top.",
+      "query": "The dog chased the cat, which ran up a tree. It waited at the top.\n\nIn the statement above, does \"It\" refer to The dog or The cat?",
+      "model_response": "The cat.",
+      "model_answer": "The cat",
+      "correct_answer": "The cat",
+      "is_correct": true
+    },
+    {
+      "text": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed.",
+      "query": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed.\n\nIn the statement above, does \"it\" refer to The tree or The roof?",
+      "model_response": "The tree.",
+      "model_answer": "The tree",
+      "correct_answer": "The tree",
+      "is_correct": true
+    },
+    {
+      "text": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.",
+      "query": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.\n\nIn the statement above, does \"it\" refer to The tree or The roof?",
+      "model_response": "The roof.",
+      "model_answer": "The roof",
+      "correct_answer": "The roof",
+      "is_correct": true
+    },
+    {
+      "text": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.",
+      "error": "Error calling API: Error calling API: [Errno 60] Operation timed out",
+      "is_correct": false
+    },
+    {
+      "text": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.",
+      "error": "Error calling API: Error calling API: [Errno 60] Operation timed out",
+      "is_correct": false
+    },
+    {
+      "text": "John was doing research in the library when he heard a man humming and whistling. He was very annoyed.",
+      "query": "John was doing research in the library when he heard a man humming and whistling. He was very annoyed.\n\nIn the statement above, does \"He\" refer to John or The man?",
+      "model_response": "John.",
+      "model_answer": "John",
+      "correct_answer": "John",
+      "is_correct": true
+    },
+    {
+      "text": "John was doing research in the library when he heard a man humming and whistling. He was very annoying.",
+      "query": "John was doing research in the library when he heard a man humming and whistling. He was very annoying.\n\nIn the statement above, does \"He\" refer to John or The man?",
+      "model_response": "The man.",
+      "model_answer": "The man",
+      "correct_answer": "The man",
+      "is_correct": true
+    },
+    {
+      "text": "John was jogging through the park when he saw a man juggling watermelons. He was very impressed.",
+      "error": "Error calling API: ",
+      "is_correct": false
+    },
+    {
+      "text": "John was jogging through the park when he saw a man juggling watermelons. He was very impressive.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very concerned.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Mark told Pete many lies about himself, which Pete included in his book. He should have been more truthful.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Mark told Pete many lies about himself, which Pete included in his book. He should have been more skeptical.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Joe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Joe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Many people start to read Paul's books and can't put them down. They are gripped because Paul writes so well.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Mary took out her flute and played one of her favorite pieces. She has had it since she was a child.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Mary took out her flute and played one of her favorite pieces. She has loved it since she was a child.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Sam pulled up a chair to the piano, but it was broken, so he had to stand instead.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Sam pulled up a chair to the piano, but it was broken, so he had to sing instead.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Since it was raining, I carried the newspaper in my backpack to keep it dry.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Since it was raining, I carried the newspaper over my backpack to keep it dry.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Sara borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Sara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked it down.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Jane knocked on Susan's door, but there was no answer. She was disappointed.",
+      "query": "Jane knocked on Susan's door, but there was no answer. She was disappointed.\n\nIn the statement above, does \"She\" refer to Jane or Susan?",
+      "model_response": "Jane.",
+      "model_answer": "Jane",
+      "correct_answer": "Jane",
+      "is_correct": true
+    },
+    {
+      "text": "Jane knocked on Susan's door, but there was no answer. She was out.",
+      "query": "Jane knocked on Susan's door, but there was no answer. She was out.\n\nIn the statement above, does \"She\" refer to Jane or Susan?",
+      "model_response": "Susan.",
+      "model_answer": "Susan",
+      "correct_answer": "Susan",
+      "is_correct": true
+    },
+    {
+      "text": "Jane knocked on the door, and Susan answered it. She invited her to come out.",
+      "query": "Jane knocked on the door, and Susan answered it. She invited her to come out.\n\nIn the statement above, does \"She\" refer to Jane or Susan?",
+      "model_response": "Susan.",
+      "model_answer": "Susan",
+      "correct_answer": "Jane",
+      "is_correct": false
+    },
+    {
+      "text": "Jane knocked on the door, and Susan answered it. She invited her to come in.",
+      "query": "Jane knocked on the door, and Susan answered it. She invited her to come in.\n\nIn the statement above, does \"She\" refer to Jane or Susan?",
+      "model_response": "Susan.",
+      "model_answer": "Susan",
+      "correct_answer": "Susan",
+      "is_correct": true
+    },
+    {
+      "text": "Sam took French classes from Adam, because he was eager to speak it fluently.",
+      "query": "Sam took French classes from Adam, because he was eager to speak it fluently.\n\nIn the statement above, does \"he\" refer to Sam or Adam?",
+      "model_response": "Sam.",
+      "model_answer": "Sam",
+      "correct_answer": "Sam",
+      "is_correct": true
+    },
+    {
+      "text": "Sam took French classes from Adam, because he was known to speak it fluently.",
+      "error": "Error calling API: Error calling API: [Errno 65] No route to host",
+      "is_correct": false
+    },
+    {
+      "text": "The path to the lake was blocked, so we couldn't use it .",
+      "error": "Error calling API: [Errno 60] Operation timed out",
+      "is_correct": false
+    },
+    {
+      "text": "The path to the lake was blocked, so we couldn't reach it .",
+      "query": "The path to the lake was blocked, so we couldn't reach it .\n\nIn the statement above, does \"it\" refer to The path or The lake?",
+      "model_response": "The lake.",
+      "model_answer": "The lake",
+      "correct_answer": "The lake",
+      "is_correct": true
+    },
+    {
+      "text": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out.",
+      "query": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out.\n\nIn the statement above, does \"it\" refer to The sun or The cloud?",
+      "model_response": "The sun.",
+      "model_answer": "The sun",
+      "correct_answer": "The sun",
+      "is_correct": true
+    },
+    {
+      "text": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone.",
+      "query": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone.\n\nIn the statement above, does \"it\" refer to The sun or The cloud?",
+      "model_response": "The cloud.",
+      "model_answer": "The cloud",
+      "correct_answer": "The cloud",
+      "is_correct": true
+    },
+    {
+      "text": "We went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim.",
+      "query": "We went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim.\n\nIn the statement above, does \"it\" refer to The lake or The ocean beach?",
+      "model_response": "The lake.",
+      "model_answer": "The lake",
+      "correct_answer": "The lake",
+      "is_correct": true
+    },
+    {
+      "text": "We went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim.",
+      "query": "We went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim.\n\nIn the statement above, does \"it\" refer to The lake or The ocean beach?",
+      "model_response": "The ocean beach.",
+      "model_answer": "The ocean beach",
+      "correct_answer": "The ocean beach",
+      "is_correct": true
+    },
+    {
+      "text": "Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.",
+      "query": "Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.\n\nIn the statement above, does \"they\" refer to The shepherds or The sheep?",
+      "model_response": "The shepherds.",
+      "model_answer": "The shepherds",
+      "correct_answer": "The shepherds",
+      "is_correct": true
+    },
+    {
+      "text": "Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs.",
+      "query": "Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs.\n\nIn the statement above, does \"they\" refer to The shepherds or The sheep?",
+      "model_response": "The sheep.",
+      "model_answer": "The sheep",
+      "correct_answer": "The sheep",
+      "is_correct": true
+    },
+    {
+      "text": "Mary tucked her daughter Anne into bed, so that she could work.",
+      "query": "Mary tucked her daughter Anne into bed, so that she could work.\n\nIn the statement above, does \"she\" refer to Mary or Mary's daughter?",
+      "model_response": "Mary.",
+      "model_answer": "Mary",
+      "correct_answer": "Mary",
+      "is_correct": true
+    },
+    {
+      "text": "Mary tucked her daughter Anne into bed, so that she could sleep.",
+      "query": "Mary tucked her daughter Anne into bed, so that she could sleep.\n\nIn the statement above, does \"she\" refer to Mary or Mary's daughter?",
+      "model_response": "Mary's daughter.",
+      "model_answer": "Mary",
+      "correct_answer": "Mary's daughter",
+      "is_correct": false
+    },
+    {
+      "text": "Fred and Alice had very warm down coats, but they were not prepared for the cold in Alaska.",
+      "query": "Fred and Alice had very warm down coats, but they were not prepared for the cold in Alaska.\n\nIn the statement above, does \"they\" refer to Fred and Alice or coats?",
+      "model_response": "Fred and Alice.",
+      "model_answer": "Fred and Alice",
+      "correct_answer": "Fred and Alice",
+      "is_correct": true
+    },
+    {
+      "text": "Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska.",
+      "error": "Error calling API: Error calling API: Error calling API: Error calling API: [Errno 60] Operation timed out",
+      "is_correct": false
+    },
+    {
+      "text": "Thomson visited Cooper's grave in 1765. At that date he had been travelling for five years.",
+      "error": "Error calling API: Error calling API: Error calling API: Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Thomson visited Cooper's grave in 1765. At that date he had been dead for five years.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Jackson was greatly influenced by Arnold, though he lived two centuries later.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Jackson was greatly influenced by Arnold, though he lived two centuries earlier.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "I can't cut that tree down with that axe; it is too thick.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "I can't cut that tree down with that axe; it is too small.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The foxes are getting in at night and attacking the chickens. I shall have to kill them .",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The foxes are getting in at night and attacking the chickens. I shall have to guard them .",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The foxes are getting in at night and attacking the chickens. They have gotten very bold.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The foxes are getting in at night and attacking the chickens. They have gotten very nervous.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was too hard to pronounce.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was easier to pronounce.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Fred watched TV while George went out to buy groceries. After an hour he got up.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Fred watched TV while George went out to buy groceries. After an hour he got back.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it on.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Fred is the only man still alive who remembers my great-grandfather. He is a remarkable man.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Fred is the only man still alive who remembers my great-grandfather. He was a remarkable man.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve years old.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were defeated within weeks.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were victorious within weeks.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Look! There is a minnow swimming right below that duck! It had better get away to safety fast!",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Look! There is a shark swimming right below that duck! It had better get away to safety fast!",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for evidence on the river banks.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for deer on the river banks.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "I put the cake away in the refrigerator. It has a lot of butter in it.",
+      "query": "I put the cake away in the refrigerator. It has a lot of butter in it.\n\nIn the statement above, does \"It\" refer to The cake or The refrigerator?",
+      "model_response": "The cake.",
+      "model_answer": "The cake",
+      "correct_answer": "The cake",
+      "is_correct": true
+    },
+    {
+      "text": "I put the cake away in the refrigerator. It has a lot of leftovers in it.",
+      "query": "I put the cake away in the refrigerator. It has a lot of leftovers in it.\n\nIn the statement above, does \"It\" refer to The cake or The refrigerator?",
+      "model_response": "The refrigerator.",
+      "model_answer": "The refrigerator",
+      "correct_answer": "The refrigerator",
+      "is_correct": true
+    },
+    {
+      "text": "Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be better.",
+      "query": "Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be better.\n\nIn the statement above, does \"they\" refer to The ankles or The crutches?",
+      "model_response": "The ankles.",
+      "model_answer": "The ankles",
+      "correct_answer": "The ankles",
+      "is_correct": true
+    },
+    {
+      "text": "Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary.",
+      "query": "Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary.\n\nIn the statement above, does \"they\" refer to The ankles or The crutches?",
+      "model_response": "The crutches.",
+      "model_answer": "The crutches",
+      "correct_answer": "The crutches",
+      "is_correct": true
+    },
+    {
+      "text": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the minority.",
+      "query": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the minority.\n\nIn the statement above, does \"They\" refer to The sponsors or The opponents?",
+      "model_response": "The sponsors.",
+      "model_answer": "The sponsors",
+      "correct_answer": "The sponsors",
+      "is_correct": true
+    },
+    {
+      "text": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.",
+      "query": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.\n\nIn the statement above, does \"They\" refer to The sponsors or The opponents?",
+      "model_response": "The opponents.",
+      "model_answer": "The opponents",
+      "correct_answer": "The opponents",
+      "is_correct": true
+    },
+    {
+      "text": "Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of them .",
+      "error": "Error calling API: Error calling API: [Errno 65] No route to host",
+      "is_correct": false
+    },
+    {
+      "text": "Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them .",
+      "error": "Error calling API: Error calling API: Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them .",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them .",
+      "error": "Error calling API: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [nodename nor servname provided, or not known]",
+      "is_correct": false
+    },
+    {
+      "text": "I stuck a pin through a carrot. When I pulled the pin out, it left a hole.",
+      "query": "I stuck a pin through a carrot. When I pulled the pin out, it left a hole.\n\nIn the statement above, does \"it\" refer to The pin or The carrot?",
+      "model_response": "The pin.",
+      "model_answer": "The pin",
+      "correct_answer": "The pin",
+      "is_correct": true
+    },
+    {
+      "text": "I stuck a pin through a carrot. When I pulled the pin out, it had a hole.",
+      "error": "Error calling API: ",
+      "is_correct": false
+    },
+    {
+      "text": "I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of coffee.",
+      "error": "Error calling API: [Errno 60] Operation timed out",
+      "is_correct": false
+    },
+    {
+      "text": "I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of ink.",
+      "query": "I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of ink.\n\nIn the statement above, does \"it\" refer to The pen or The coffee?",
+      "model_response": "The coffee.",
+      "model_answer": "The coffee",
+      "correct_answer": "The coffee",
+      "is_correct": true
+    },
+    {
+      "text": "Steve follows Fred's example in everything. He admires him hugely.",
+      "query": "Steve follows Fred's example in everything. He admires him hugely.\n\nIn the statement above, does \"He\" refer to Steve or Fred?",
+      "model_response": "Steve.",
+      "model_answer": "Steve",
+      "correct_answer": "Steve",
+      "is_correct": true
+    },
+    {
+      "text": "Steve follows Fred's example in everything. He influences him hugely.",
+      "query": "Steve follows Fred's example in everything. He influences him hugely.\n\nIn the statement above, does \"He\" refer to Steve or Fred?",
+      "model_response": "Fred.",
+      "model_answer": "Fred",
+      "correct_answer": "Fred",
+      "is_correct": true
+    },
+    {
+      "text": "The table won't fit through the doorway because it is too wide.",
+      "query": "The table won't fit through the doorway because it is too wide.\n\nIn the statement above, does \"it\" refer to The table or The doorway?",
+      "model_response": "The table.",
+      "model_answer": "The table",
+      "correct_answer": "The table",
+      "is_correct": true
+    },
+    {
+      "text": "The table won't fit through the doorway because it is too narrow.",
+      "query": "The table won't fit through the doorway because it is too narrow.\n\nIn the statement above, does \"it\" refer to The table or The doorway?",
+      "model_response": "The doorway.",
+      "model_answer": "The doorway",
+      "correct_answer": "The doorway",
+      "is_correct": true
+    },
+    {
+      "text": "Grace was happy to trade me her sweater for my jacket. She thinks it looks dowdy on her.",
+      "query": "Grace was happy to trade me her sweater for my jacket. She thinks it looks dowdy on her.\n\nIn the statement above, does \"it\" refer to The sweater or The jacket?",
+      "model_response": "The sweater.",
+      "model_answer": "The sweater",
+      "correct_answer": "The sweater",
+      "is_correct": true
+    },
+    {
+      "text": "Grace was happy to trade me her sweater for my jacket. She thinks it looks great on her.",
+      "query": "Grace was happy to trade me her sweater for my jacket. She thinks it looks great on her.\n\nIn the statement above, does \"it\" refer to The sweater or The jacket?",
+      "model_response": "The sweater.",
+      "model_answer": "The sweater",
+      "correct_answer": "The jacket",
+      "is_correct": false
+    },
+    {
+      "text": "John hired Bill to take care of him .",
+      "query": "John hired Bill to take care of him .\n\nIn the statement above, does \"him\" refer to John or Bill?",
+      "model_response": "John.",
+      "model_answer": "John",
+      "correct_answer": "John",
+      "is_correct": true
+    },
+    {
+      "text": "John hired himself out to Bill to take care of him .",
+      "query": "John hired himself out to Bill to take care of him .\n\nIn the statement above, does \"him\" refer to John or Bill?",
+      "model_response": "Bill.",
+      "model_answer": "Bill",
+      "correct_answer": "Bill",
+      "is_correct": true
+    },
+    {
+      "text": "John promised Bill to leave, so an hour later he left.",
+      "query": "John promised Bill to leave, so an hour later he left.\n\nIn the statement above, does \"he\" refer to John or Bill?",
+      "model_response": "John.",
+      "model_answer": "John",
+      "correct_answer": "John",
+      "is_correct": true
+    },
+    {
+      "text": "John ordered Bill to leave, so an hour later he left.",
+      "query": "John ordered Bill to leave, so an hour later he left.\n\nIn the statement above, does \"he\" refer to John or Bill?",
+      "model_response": "Bill.",
+      "model_answer": "Bill",
+      "correct_answer": "Bill",
+      "is_correct": true
+    },
+    {
+      "text": "Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research.",
+      "query": "Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research.\n\nIn the statement above, does \"he\" refer to Goodman or Xenophanes?",
+      "model_response": "Goodman.",
+      "model_answer": "Goodman",
+      "correct_answer": "Goodman",
+      "is_correct": true
+    },
+    {
+      "text": "Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his childhood.",
+      "query": "Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his childhood.\n\nIn the statement above, does \"he\" refer to Goodman or Xenophanes?",
+      "model_response": "Xenophanes.",
+      "model_answer": "Xenophanes",
+      "correct_answer": "Xenophanes",
+      "is_correct": true
+    },
+    {
+      "text": "Emma's mother had died long ago, and her education had been managed by an excellent woman as governess.",
+      "query": "Emma's mother had died long ago, and her education had been managed by an excellent woman as governess.\n\nIn the statement above, does \"her\" refer to Emma or Emma's mother?",
+      "model_response": "Emma.",
+      "model_answer": "Emma",
+      "correct_answer": "Emma",
+      "is_correct": true
+    },
+    {
+      "text": "Emma's mother had died long ago, and her place had been taken by an excellent woman as governess.",
+      "query": "Emma's mother had died long ago, and her place had been taken by an excellent woman as governess.\n\nIn the statement above, does \"her\" refer to Emma or Emma's mother?",
+      "model_response": "Emma.",
+      "model_answer": "Emma",
+      "correct_answer": "Emma's mother",
+      "is_correct": false
+    },
+    {
+      "text": "Jane knocked on Susan's door but she did not get an answer.",
+      "query": "Jane knocked on Susan's door but she did not get an answer.\n\nIn the statement above, does \"she\" refer to Jane or Susan?",
+      "model_response": "Jane.",
+      "model_answer": "Jane",
+      "correct_answer": "Jane",
+      "is_correct": true
+    },
+    {
+      "text": "Jane knocked on Susan's door but she did not answer.",
+      "query": "Jane knocked on Susan's door but she did not answer.\n\nIn the statement above, does \"she\" refer to Jane or Susan?",
+      "model_response": "Susan.",
+      "model_answer": "Susan",
+      "correct_answer": "Susan",
+      "is_correct": true
+    },
+    {
+      "text": "Joe paid the detective after he received the final report on the case.",
+      "query": "Joe paid the detective after he received the final report on the case.\n\nIn the statement above, does \"he\" refer to Joe or the detective?",
+      "model_response": "Joe.",
+      "model_answer": "Joe",
+      "correct_answer": "Joe",
+      "is_correct": true
+    },
+    {
+      "text": "Joe paid the detective after he delivered the final report on the case.",
+      "query": "Joe paid the detective after he delivered the final report on the case.\n\nIn the statement above, does \"he\" refer to Joe or the detective?",
+      "model_response": "The detective.",
+      "model_answer": "the detective",
+      "correct_answer": "the detective",
+      "is_correct": true
+    },
+    {
+      "text": "Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten.",
+      "query": "Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten.\n\nIn the statement above, does \"she\" refer to Beth or Sally?",
+      "model_response": "Beth.",
+      "model_answer": "Beth",
+      "correct_answer": "Beth",
+      "is_correct": true
+    },
+    {
+      "text": "Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized.",
+      "query": "Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized.\n\nIn the statement above, does \"she\" refer to Beth or Sally?",
+      "model_response": "Sally.",
+      "model_answer": "Sally",
+      "correct_answer": "Sally",
+      "is_correct": true
+    },
+    {
+      "text": "Jim signaled the barman and gestured toward his empty glass",
+      "query": "Jim signaled the barman and gestured toward his empty glass\n\nIn the statement above, does \"his\" refer to Jim or The barman?",
+      "model_response": "Jim.",
+      "model_answer": "Jim",
+      "correct_answer": "Jim",
+      "is_correct": true
+    },
+    {
+      "text": "Jim signaled the barman and gestured toward his bathroom key.",
+      "query": "Jim signaled the barman and gestured toward his bathroom key.\n\nIn the statement above, does \"his\" refer to Jim or The barman?",
+      "model_response": "Jim.",
+      "model_answer": "Jim",
+      "correct_answer": "The barman",
+      "is_correct": false
+    },
+    {
+      "text": "Dan took the rear seat while Bill claimed the front because his \"Dibs!\" was slow.",
+      "query": "Dan took the rear seat while Bill claimed the front because his \"Dibs!\" was slow.\n\nIn the statement above, does \"his\" refer to Dan or Bill?",
+      "model_response": "Dan.",
+      "model_answer": "Dan",
+      "correct_answer": "Dan",
+      "is_correct": true
+    },
+    {
+      "text": "Dan took the rear seat while Bill claimed the front because his \"Dibs!\" was quicker.",
+      "query": "Dan took the rear seat while Bill claimed the front because his \"Dibs!\" was quicker.\n\nIn the statement above, does \"his\" refer to Dan or Bill?",
+      "model_response": "Bill.",
+      "model_answer": "Bill",
+      "correct_answer": "Bill",
+      "is_correct": true
+    },
+    {
+      "text": "Tom said \"Check\" to Ralph as he moved his bishop.",
+      "query": "Tom said \"Check\" to Ralph as he moved his bishop.\n\nIn the statement above, does \"his\" refer to Tom or Ralph?",
+      "model_response": "Tom.",
+      "model_answer": "Tom",
+      "correct_answer": "Tom",
+      "is_correct": true
+    },
+    {
+      "text": "Tom said \"Check\" to Ralph as he took his bishop.",
+      "query": "Tom said \"Check\" to Ralph as he took his bishop.\n\nIn the statement above, does \"his\" refer to Tom or Ralph?",
+      "model_response": "Ralph.",
+      "model_answer": "Ralph",
+      "correct_answer": "Ralph",
+      "is_correct": true
+    },
+    {
+      "text": "As Andrea in the crop duster passed over Susan, she could see the landing strip.",
+      "query": "As Andrea in the crop duster passed over Susan, she could see the landing strip.\n\nIn the statement above, does \"she\" refer to Andrea or Susan?",
+      "model_response": "Susan.",
+      "model_answer": "Susan",
+      "correct_answer": "Andrea",
+      "is_correct": false
+    },
+    {
+      "text": "As Andrea in the crop duster passed over Susan, she could see the landing gear.",
+      "error": "Error calling API: Error calling API: Error calling API: Error calling API: ",
+      "is_correct": false
+    },
+    {
+      "text": "Tom gave Ralph a lift to school so he wouldn't have to drive alone.",
+      "error": "Error calling API: Error calling API: Error calling API: ",
+      "is_correct": false
+    },
+    {
+      "text": "Tom gave Ralph a lift to school so he wouldn't have to walk.",
+      "error": "Error calling API: Error calling API: Error calling API: [Errno 60] Operation timed out",
+      "is_correct": false
+    },
+    {
+      "text": "Bill passed the half-empty plate to John because he was full.",
+      "error": "Error calling API: ",
+      "is_correct": false
+    },
+    {
+      "text": "Bill passed the half-empty plate to John because he was hungry.",
+      "query": "Bill passed the half-empty plate to John because he was hungry.\n\nIn the statement above, does \"he\" refer to Bill or John?",
+      "model_response": "John.",
+      "model_answer": "John",
+      "correct_answer": "John",
+      "is_correct": true
+    },
+    {
+      "text": "Bill passed the gameboy to John because his turn was over.",
+      "query": "Bill passed the gameboy to John because his turn was over.\n\nIn the statement above, does \"his\" refer to Bill or John?",
+      "model_response": "Bill.",
+      "model_answer": "Bill",
+      "correct_answer": "Bill",
+      "is_correct": true
+    },
+    {
+      "text": "Bill passed the gameboy to John because his turn was next.",
+      "query": "Bill passed the gameboy to John because his turn was next.\n\nIn the statement above, does \"his\" refer to Bill or John?",
+      "model_response": "John.",
+      "model_answer": "John",
+      "correct_answer": "John",
+      "is_correct": true
+    },
+    {
+      "text": "The man lifted the boy onto his shoulders.",
+      "query": "The man lifted the boy onto his shoulders.\n\nIn the statement above, does \"his\" refer to The man or The boy?",
+      "model_response": "The man.",
+      "model_answer": "The man",
+      "correct_answer": "The man",
+      "is_correct": true
+    },
+    {
+      "text": "The man lifted the boy onto his bunk bed.",
+      "query": "The man lifted the boy onto his bunk bed.\n\nIn the statement above, does \"his\" refer to The man or The boy?",
+      "model_response": "The man.",
+      "model_answer": "The man",
+      "correct_answer": "The boy",
+      "is_correct": false
+    },
+    {
+      "text": "Stretching her back, the woman smiled at the girl.",
+      "query": "Stretching her back, the woman smiled at the girl.\n\nIn the statement above, does \"her\" refer to The woman or The girl?",
+      "model_response": "The woman.",
+      "model_answer": "The woman",
+      "correct_answer": "The woman",
+      "is_correct": true
+    },
+    {
+      "text": "Patting her back, the woman smiled at the girl.",
+      "query": "Patting her back, the woman smiled at the girl.\n\nIn the statement above, does \"her\" refer to The woman or The girl?",
+      "model_response": "The girl.",
+      "model_answer": "The girl",
+      "correct_answer": "The girl",
+      "is_correct": true
+    },
+    {
+      "text": "Billy cried because Toby wouldn't accept his toy.",
+      "query": "Billy cried because Toby wouldn't accept his toy.\n\nIn the statement above, does \"his\" refer to Billy or Toby?",
+      "model_response": "Billy.",
+      "model_answer": "Billy",
+      "correct_answer": "Billy",
+      "is_correct": true
+    },
+    {
+      "text": "Billy cried because Toby wouldn't share his toy.",
+      "query": "Billy cried because Toby wouldn't share his toy.\n\nIn the statement above, does \"his\" refer to Billy or Toby?",
+      "model_response": "Toby.",
+      "model_answer": "Toby",
+      "correct_answer": "Toby",
+      "is_correct": true
+    },
+    {
+      "text": "Lily spoke to Donna, breaking her silence.",
+      "query": "Lily spoke to Donna, breaking her silence.\n\nIn the statement above, does \"her\" refer to Lily or Donna?",
+      "model_response": "Lily.",
+      "model_answer": "Lily",
+      "correct_answer": "Lily",
+      "is_correct": true
+    },
+    {
+      "text": "Lily spoke to Donna, breaking her concentration.",
+      "query": "Lily spoke to Donna, breaking her concentration.\n\nIn the statement above, does \"her\" refer to Lily or Donna?",
+      "model_response": "Donna.",
+      "model_answer": "Donna",
+      "correct_answer": "Donna",
+      "is_correct": true
+    },
+    {
+      "text": "When Tommy dropped his ice cream, Timmy giggled, so father gave him a sympathetic look.",
+      "query": "When Tommy dropped his ice cream, Timmy giggled, so father gave him a sympathetic look.\n\nIn the statement above, does \"him\" refer to Tommy or Timmy?",
+      "model_response": "Tommy.",
+      "model_answer": "Tommy",
+      "correct_answer": "Tommy",
+      "is_correct": true
+    },
+    {
+      "text": "When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look.",
+      "query": "When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look.\n\nIn the statement above, does \"him\" refer to Tommy or Timmy?",
+      "model_response": "Timmy.",
+      "model_answer": "Timmy",
+      "correct_answer": "Timmy",
+      "is_correct": true
+    },
+    {
+      "text": "As Ollie carried Tommy up the long winding steps, his legs ached.",
+      "query": "As Ollie carried Tommy up the long winding steps, his legs ached.\n\nIn the statement above, does \"his\" refer to Ollie or Tommy?",
+      "model_response": "Ollie.",
+      "model_answer": "Ollie",
+      "correct_answer": "Ollie",
+      "is_correct": true
+    },
+    {
+      "text": "As Ollie carried Tommy up the long winding steps, his legs dangled.",
+      "query": "As Ollie carried Tommy up the long winding steps, his legs dangled.\n\nIn the statement above, does \"his\" refer to Ollie or Tommy?",
+      "model_response": "Tommy.",
+      "model_answer": "Tommy",
+      "correct_answer": "Tommy",
+      "is_correct": true
+    },
+    {
+      "text": "The father carried the sleeping boy in his arms",
+      "query": "The father carried the sleeping boy in his arms\n\nIn the statement above, does \"his\" refer to The father or The boy?",
+      "model_response": "The father.",
+      "model_answer": "The father",
+      "correct_answer": "The father",
+      "is_correct": true
+    },
+    {
+      "text": "The father carried the sleeping boy in his bassinet.",
+      "query": "The father carried the sleeping boy in his bassinet.\n\nIn the statement above, does \"his\" refer to The father or The boy?",
+      "model_response": "The boy.",
+      "model_answer": "The boy",
+      "correct_answer": "The boy",
+      "is_correct": true
+    },
+    {
+      "text": "The woman held the girl against her chest",
+      "query": "The woman held the girl against her chest\n\nIn the statement above, does \"her\" refer to The woman or The girl?",
+      "model_response": "The woman.",
+      "model_answer": "The woman",
+      "correct_answer": "The woman",
+      "is_correct": true
+    },
+    {
+      "text": "The woman held the girl against her will.",
+      "query": "The woman held the girl against her will.\n\nIn the statement above, does \"her\" refer to The woman or The girl?",
+      "model_response": "The girl.",
+      "model_answer": "The girl",
+      "correct_answer": "The girl",
+      "is_correct": true
+    },
+    {
+      "text": "Pam's parents came home and found her having sex with her boyfriend, Paul. They were furious about it.",
+      "query": "Pam's parents came home and found her having sex with her boyfriend, Paul. They were furious about it.\n\nIn the statement above, does \"They\" refer to Pam's parents or Pam and Paul?",
+      "model_response": "Pam's parents.",
+      "model_answer": "Pam's parents",
+      "correct_answer": "Pam's parents",
+      "is_correct": true
+    },
+    {
+      "text": "Pam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed about it.",
+      "query": "Pam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed about it.\n\nIn the statement above, does \"They\" refer to Pam's parents or Pam and Paul?",
+      "model_response": "Pam's parents.",
+      "model_answer": "Pam's parents",
+      "correct_answer": "Pam and Paul",
+      "is_correct": false
+    },
+    {
+      "text": "Dr. Adams informed Kate that she had retired and presented several options for future treatment.",
+      "query": "Dr. Adams informed Kate that she had retired and presented several options for future treatment.\n\nIn the statement above, does \"she\" refer to Dr. Adams or Kate?",
+      "model_response": "Dr. Adams.",
+      "model_answer": "Dr. Adams",
+      "correct_answer": "Dr. Adams",
+      "is_correct": true
+    },
+    {
+      "text": "Dr. Adams informed Kate that she had cancer and presented several options for future treatment.",
+      "query": "Dr. Adams informed Kate that she had cancer and presented several options for future treatment.\n\nIn the statement above, does \"she\" refer to Dr. Adams or Kate?",
+      "model_response": "Kate.",
+      "model_answer": "Kate",
+      "correct_answer": "Kate",
+      "is_correct": true
+    },
+    {
+      "text": "Dan had to stop Bill from toying with the injured bird. He is very compassionate.",
+      "query": "Dan had to stop Bill from toying with the injured bird. He is very compassionate.\n\nIn the statement above, does \"He\" refer to Dan or Bill?",
+      "model_response": "Dan.",
+      "model_answer": "Dan",
+      "correct_answer": "Dan",
+      "is_correct": true
+    },
+    {
+      "text": "Dan had to stop Bill from toying with the injured bird. He is very cruel.",
+      "query": "Dan had to stop Bill from toying with the injured bird. He is very cruel.\n\nIn the statement above, does \"He\" refer to Dan or Bill?",
+      "model_response": "Bill.",
+      "model_answer": "Bill",
+      "correct_answer": "Bill",
+      "is_correct": true
+    },
+    {
+      "text": "George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it.",
+      "query": "George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it.\n\nIn the statement above, does \"he\" refer to George or Eric?",
+      "model_response": "George.",
+      "model_answer": "George",
+      "correct_answer": "George",
+      "is_correct": true
+    },
+    {
+      "text": "George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.",
+      "query": "George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.\n\nIn the statement above, does \"he\" refer to George or Eric?",
+      "model_response": "Eric.",
+      "model_answer": "Eric",
+      "correct_answer": "Eric",
+      "is_correct": true
+    },
+    {
+      "text": "George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it.",
+      "query": "George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it.\n\nIn the statement above, does \"he\" refer to George or Eric?",
+      "model_response": "George.",
+      "model_answer": "George",
+      "correct_answer": "George",
+      "is_correct": true
+    },
+    {
+      "text": "Jane gave Joan candy because she wasn't hungry.",
+      "query": "Jane gave Joan candy because she wasn't hungry.\n\nIn the statement above, does \"she\" refer to Jane or Joan?",
+      "model_response": "Jane.",
+      "model_answer": "Jane",
+      "correct_answer": "Jane",
+      "is_correct": true
+    },
+    {
+      "text": "Jane gave Joan candy because she was hungry.",
+      "query": "Jane gave Joan candy because she was hungry.\n\nIn the statement above, does \"she\" refer to Jane or Joan?",
+      "model_response": "Joan.",
+      "model_answer": "Joan",
+      "correct_answer": "Joan",
+      "is_correct": true
+    },
+    {
+      "text": "I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.",
+      "query": "I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.\n\nIn the statement above, does \"they\" refer to lemons or lemon trees?",
+      "model_response": "Lemons.",
+      "model_answer": "lemons",
+      "correct_answer": "lemons",
+      "is_correct": true
+    },
+    {
+      "text": "I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles.",
+      "query": "I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles.\n\nIn the statement above, does \"they\" refer to lemons or lemon trees?",
+      "model_response": "The lemon trees.",
+      "model_answer": "lemon trees",
+      "correct_answer": "lemon trees",
+      "is_correct": true
+    },
+    {
+      "text": "James asked Robert for a favor but he was refused.",
+      "query": "James asked Robert for a favor but he was refused.\n\nIn the statement above, does \"he\" refer to James or Robert?",
+      "model_response": "Robert.",
+      "model_answer": "Robert",
+      "correct_answer": "James",
+      "is_correct": false
+    },
+    {
+      "text": "James asked Robert for a favor but he refused.",
+      "query": "James asked Robert for a favor but he refused.\n\nIn the statement above, does \"he\" refer to James or Robert?",
+      "model_response": "Robert.",
+      "model_answer": "Robert",
+      "correct_answer": "Robert",
+      "is_correct": true
+    },
+    {
+      "text": "Kirilov ceded the presidency to Shatov because he was less popular.",
+      "query": "Kirilov ceded the presidency to Shatov because he was less popular.\n\nIn the statement above, does \"he\" refer to Kirilov or Shatov?",
+      "model_response": "Kirilov.",
+      "model_answer": "Kirilov",
+      "correct_answer": "Kirilov",
+      "is_correct": true
+    },
+    {
+      "text": "Kirilov ceded the presidency to Shatov because he was more popular.",
+      "query": "Kirilov ceded the presidency to Shatov because he was more popular.\n\nIn the statement above, does \"he\" refer to Kirilov or Shatov?",
+      "model_response": "Shatov.",
+      "model_answer": "Shatov",
+      "correct_answer": "Shatov",
+      "is_correct": true
+    },
+    {
+      "text": "Emma did not pass the ball to Janie although she saw that she was open.",
+      "query": "Emma did not pass the ball to Janie although she saw that she was open.\n\nIn the statement above, does \"she\" refer to Emma or Janie?",
+      "model_response": "The first \"she\" refers to Emma, and the second \"she\" refers to Janie.",
+      "model_answer": "Emma",
+      "correct_answer": "Emma",
+      "is_correct": true
+    },
+    {
+      "text": "Emma did not pass the ball to Janie although she was open.",
+      "query": "Emma did not pass the ball to Janie although she was open.\n\nIn the statement above, does \"she\" refer to Emma or Janie?",
+      "model_response": "Janie.",
+      "model_answer": "Janie",
+      "correct_answer": "Janie",
+      "is_correct": true
+    },
+    {
+      "text": "I put the butterfly wing on the table and it broke.",
+      "query": "I put the butterfly wing on the table and it broke.\n\nIn the statement above, does \"it\" refer to The butterfly wing or The table?",
+      "model_response": "The butterfly wing.",
+      "model_answer": "The butterfly wing",
+      "correct_answer": "The butterfly wing",
+      "is_correct": true
+    },
+    {
+      "text": "I put the heavy book on the table and it broke.",
+      "query": "I put the heavy book on the table and it broke.\n\nIn the statement above, does \"it\" refer to The heavy book or The table?",
+      "model_response": "The table.",
+      "model_answer": "The table",
+      "correct_answer": "The table",
+      "is_correct": true
+    },
+    {
+      "text": "Madonna fired her trainer because she couldn't stand her boyfriend.",
+      "query": "Madonna fired her trainer because she couldn't stand her boyfriend.\n\nIn the statement above, does \"she\" refer to Madonna or The trainer?",
+      "model_response": "Madonna.",
+      "model_answer": "Madonna",
+      "correct_answer": "Madonna",
+      "is_correct": true
+    },
+    {
+      "text": "Madonna fired her trainer because she slept with her boyfriend.",
+      "query": "Madonna fired her trainer because she slept with her boyfriend.\n\nIn the statement above, does \"she\" refer to Madonna or The trainer?",
+      "model_response": "The trainer.",
+      "model_answer": "The trainer",
+      "correct_answer": "The trainer",
+      "is_correct": true
+    },
+    {
+      "text": "Madonna fired her trainer because she slept with her boyfriend.",
+      "query": "Madonna fired her trainer because she slept with her boyfriend.\n\nIn the statement above, does \"her\" refer to Madonna or The trainer?",
+      "model_response": "The trainer.",
+      "model_answer": "The trainer",
+      "correct_answer": "Madonna",
+      "is_correct": false
+    },
+    {
+      "text": "Madonna fired her trainer because she couldn't stand her boyfriend.",
+      "query": "Madonna fired her trainer because she couldn't stand her boyfriend.\n\nIn the statement above, does \"her\" refer to Madonna or The trainer?",
+      "model_response": "The trainer.",
+      "model_answer": "The trainer",
+      "correct_answer": "The trainer",
+      "is_correct": true
+    },
+    {
+      "text": "Carol believed that Rebecca suspected that she had stolen the watch.",
+      "query": "Carol believed that Rebecca suspected that she had stolen the watch.\n\nIn the statement above, does \"she\" refer to Carol or Rebecca?",
+      "model_response": "Carol.",
+      "model_answer": "Carol",
+      "correct_answer": "Carol",
+      "is_correct": true
+    },
+    {
+      "text": "Carol believed that Rebecca regretted that she had stolen the watch.",
+      "query": "Carol believed that Rebecca regretted that she had stolen the watch.\n\nIn the statement above, does \"she\" refer to Carol or Rebecca?",
+      "model_response": "Rebecca.",
+      "model_answer": "Rebecca",
+      "correct_answer": "Rebecca",
+      "is_correct": true
+    }
+  ],
+  "total_examples": 273,
+  "correct_count": 173,
+  "accuracy": 63.369963369963365
+}
